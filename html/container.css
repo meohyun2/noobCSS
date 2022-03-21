@@ -16,4 +16,5 @@ body {
 
 .content-container {
   flex: 1;
+  overflow: scroll;
 }
